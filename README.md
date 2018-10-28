@@ -11,7 +11,7 @@ When news breaks of these deadly events, we all begin searching for details to h
 And medaia coverage in the aftermath of a deadly mass casualty event, begins to endlessly show the picture, name, age, city, ocupation, and other details of the alleged murderer. The unintended consequence of this coverage is a brief period of fame for the shooter which has been shown to lead to other copycat mass-casualty events. This has to stop. 
 
 ```
-In 2007, a Virginia Tech student killed 32 students and faculty at the university. Prior to the shooting, he expressed a desire in writing to repeat the shooting at Columbine. Since then, many shooters have cited the Virginia Tech gunman as an inspiration and others have threatened to kill more than the 32 victims killed.[6] Flynn, C., & Heitzmann D. (2008). Tragedy at Virginia Tech: Trauma and Its Aftermath. The Counseling Psychologist. 20 (10): 1-11
+> In 2007, a Virginia Tech student killed 32 students and faculty at the university. Prior to the shooting, he expressed a > desire in writing to repeat the shooting at Columbine. Since then, many shooters have cited the Virginia Tech gunman as an > inspiration and others have threatened to kill more than the 32 victims killed.[6] Flynn, C., & Heitzmann D. (2008). Tragedy > at Virginia Tech: Trauma and Its Aftermath. The Counseling Psychologist. 20 (10): 1-11
 
 ```
 
