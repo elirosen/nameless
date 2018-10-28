@@ -1,12 +1,13 @@
 ## The Nameless Pact
 
-You can use the [editor on GitHub](https://github.com/elirosen/nameless/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The purpose of the Nameless Pact is to omit the name and photo of mass-shooters from news coverage. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Why The Nameless Pact
 
-### Markdown
+The unfortunate reality of our world today is that we are surrounded by hate. Specifically, in the US, we have grown numb to school shootings, Church shootings and Synagogue shootings where innocent people are senselessly murdered. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+
 
 ```markdown
 Syntax highlighted code block
